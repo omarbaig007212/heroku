@@ -1,0 +1,165 @@
+
+
+NAME                          - VAISHALI BIJOY
+SKILLS                        - Languages known  Hindi, English, Spanish    Coursework  Machine Learning  Data Visualization  Data structures and algorithms   Statistics  Operating Systems  Database Management System  Discrete maths      Skills  C++                Java  Python               Arduino  Android                             HTML  PHP                Javascript  MySQL               R studio      Experience  • Android club coordinator  • Front end developer in TechnoVIT website team  • Online event coordinator in TechnoVIT
+COLLEGE NAME                  - Good for females
+NAME                          - using
+
+
+NAME                          - Dushyant Bhatt
+LOCATION                      - Hyderabad
+EMAIL ADDRESS                 - indeed.com/r/Dushyant- Bhatt/140749dace5dc26f
+COMPANIES WORKED AT           - Microsoft
+COMPANIES WORKED AT           - Microsoft
+COMPANIES WORKED AT           - Microsoft
+COMPANIES WORKED AT           - Microsoft
+COMPANIES WORKED AT           - Microsoft
+COMPANIES WORKED AT           - Microsoft
+COMPANIES WORKED AT           - Microsoft
+COMPANIES WORKED AT           - Microsoft
+COMPANIES WORKED AT           - Microsoft
+COMPANIES WORKED AT           - Microsoft
+COMPANIES WORKED AT           - Microsoft
+COMPANIES WORKED AT           - Microsoft
+COMPANIES WORKED AT           - Microsoft
+COMPANIES WORKED AT           - Microsoft
+COMPANIES WORKED AT           - Microsoft
+
+
+NAME                          - Email:
+EMAIL ADDRESS                 - jimmy841@gmail.com
+DEGREE                        - Year
+COLLEGE NAME                  - Degree  Institute/School
+GRADUATION YEAR               - 2012
+LOCATION                      - Ghaziabad
+COLLEGE NAME                  - Government Inter College
+EMAIL ADDRESS                 - 13
+COMPANIES WORKED AT           - Infosys Limited
+COMPANIES WORKED AT           - Member,
+
+
+NAME                          - Aman Sharma
+LOCATION                      - Chennai
+COLLEGE NAME                  - Vellore Institute of Technology
+DEGREE                        - Bachelor of Computing Science and Engineering
+DEGREE                        - HSC (Class XII
+SKILLS                        - Hindi and English
+COLLEGE NAME                  - Software Engineering
+SKILLS                        - Python, C, C++, R (Beginner)
+SKILLS                        - Skills:    HTML, PHP, JavaScript, SQL, Data Structures  ,      EXPERIENCE  Developer at VIT Vibrance Website Team      Participated in Web Hackathon conducted by Mozilla        Research Area: Clustering (Categorical Data)        Presented paper at ICMCE
+NAME                          - (
+
+
+NAME                          - Chandler Bing
+LOCATION                      - Languages
+NAME                          - known
+NAME                          - Hindi
+SKILLS                        - Data Visualization
+SKILLS                        - C++                Java
+COLLEGE NAME                  - Keras
+SKILLS                        - SQL      Experience
+SKILLS                        - Good for females  An android application for women and health safety, emergency mode using android  modules, safest route using image processing, disease prediction using SVM and linear
+NAME                          - Smart
+NAME                          - Farming
+
+
+SKILLS                        - Meghna Lohani  Campus Address  Meghna.lohani2016@vitstudent.ac.in  Permanent Address  LHA, VIT Chennai  Cell-8511192673  F-203, Shangri La   Chennai,  Apartments  Tamil Nadu  Vadodara           OBJECTIVE
+COLLEGE NAME                  - Vellore Institute of Technology
+DEGREE                        - Bachelor of Computing Science and Engineering
+COLLEGE NAME                  - CGPA
+GRADUATION YEAR               - 2015
+SKILLS                        - Hindi and English
+COLLEGE NAME                  - Software Engineering
+COLLEGE NAME                  - Statistics for Engineer
+GRADUATION YEAR               - COMPUTER
+SKILLS                        - Python, C, C++, R (Beginner), Java
+SKILLS                        - Skills:  HTML, PHP, JavaScript, SQL, Data Structures, Data  Science, Machine learning,Android  ,        EXPERIENCE  Developer at VIT Technovit Website Team    Won two hackathons
+NAME                          - Drawing
+SKILLS                        - Java Netbeans IDE, MySQL, JDBC  An application which provides a platform for students from  various colleges to interact, share knowledge about projects
+COLLEGE NAME                  - and courses.
+COLLEGE NAME                  - Android Studio, PHP, Machine learning  
+COLLEGE NAME                  - C++, OpenMP, OpenCV
+
+
+NAME                          - Chandler Bing
+LOCATION                      - Languages
+NAME                          - known
+NAME                          - Hindi
+SKILLS                        - Data Visualization
+SKILLS                        - C++                Java
+COLLEGE NAME                  - Keras
+SKILLS                        - SQL      Experience
+SKILLS                        - Good for females  An android application for women and health safety, emergency mode using android  modules, safest route using image processing, disease prediction using SVM and linear
+NAME                          - Smart
+NAME                          - Farming
+
+
+NAME                          - Alice Clark
+LOCATION                      - Delhi
+COMPANIES WORKED AT           - Microsoft
+DESIGNATION                   - Software Engineer
+COMPANIES WORKED AT           - Microsoft
+LOCATION                      - Bangalore
+COMPANIES WORKED AT           - Microsoft
+COMPANIES WORKED AT           - Microsoft
+COMPANIES WORKED AT           - Microsoft
+COMPANIES WORKED AT           - Microsoft
+COMPANIES WORKED AT           - Microsoft
+COMPANIES WORKED AT           - Microsoft
+COLLEGE NAME                  - Indian Institute of Technology – Mumbai
+SKILLS                        - Machine Learning
+NAME                          - Data
+
+
+NAME                          - John Horton
+DESIGNATION                   - Assistant Professor
+GRADUATION YEAR               - 2013
+
+
+NAME                          - Anjali Kulkarni
+LOCATION                      - Pune
+EMAIL ADDRESS                 - Selenium,
+LOCATION                      - Pune
+SKILLS                        - Python and shell scripting to automate QA tasks.
+DEGREE                        - May2013
+DESIGNATION                   - QA Engineer
+LOCATION                      - Pune
+LOCATION                      - Pune
+LOCATION                      - Pune
+LOCATION                      - Pune
+LOCATION                      - Pune
+LOCATION                      - Pune
+
+
+NAME                          - Alice Clark
+LOCATION                      - Delhi
+COMPANIES WORKED AT           - Microsoft
+DESIGNATION                   - Software Engineer
+COMPANIES WORKED AT           - Microsoft
+LOCATION                      - Bangalore
+COMPANIES WORKED AT           - Microsoft
+COMPANIES WORKED AT           - Microsoft
+COMPANIES WORKED AT           - Microsoft
+COMPANIES WORKED AT           - Microsoft
+COMPANIES WORKED AT           - Microsoft
+COMPANIES WORKED AT           - Microsoft
+COLLEGE NAME                  - Indian Institute of Technology – Mumbai
+SKILLS                        - Machine Learning
+NAME                          - Data
+
+
+NAME                          - Alice Clark
+LOCATION                      - Delhi
+COMPANIES WORKED AT           - Microsoft
+DESIGNATION                   - Software Engineer
+COMPANIES WORKED AT           - Microsoft
+LOCATION                      - Bangalore
+COMPANIES WORKED AT           - Microsoft
+COMPANIES WORKED AT           - Microsoft
+COMPANIES WORKED AT           - Microsoft
+COMPANIES WORKED AT           - Microsoft
+COMPANIES WORKED AT           - Microsoft
+COMPANIES WORKED AT           - Microsoft
+COLLEGE NAME                  - Indian Institute of Technology – Mumbai
+SKILLS                        - Machine Learning
+NAME                          - Data
